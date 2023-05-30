@@ -52,6 +52,10 @@ using pll = pair<ll, ll>;
 
 
 int main(int argc, char **argv) {
+	/* The number to factorialize */
+	ll num;
+	printf("Enter a number : ");
+	scanf("%lld", &num);
 	 
 	return 0;
 }
